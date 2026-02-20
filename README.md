@@ -83,9 +83,3 @@ npm run dev
 ---
 
 **Built to turn imagination into pixels.**
-
----
-
-### Ready to show it off?
-
-Would you like me to write a **"Features & Functionality"** section specifically explaining how you handled the **Firebase Cloud Functions** for the image generation handshake?
